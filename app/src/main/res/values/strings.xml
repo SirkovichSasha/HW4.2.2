@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Netology</string>
+    <string name="noteBook">Записная книжка</string>
+    <string name="Spinner">Spinner «Страны-города-улицы»</string>
+    <string name="settings">Settings</string>
+    <string name="save">Сохранить</string>
+    <string name="dataSaved">данные сохранены</string>
+    <string name="openNoteBook">Открыть записную книжку</string>
+    <string name="adress">Показать адрес</string>
+    <string name="Delete">Delete</string>
+
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+
+</resources>

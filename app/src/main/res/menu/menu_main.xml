@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.netodologia.myapplication.MainActivity">
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_open_notes"
+        android:orderInCategory="100"
+        android:title="@string/noteBook"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_open_spinner"
+        android:orderInCategory="100"
+        android:title="@string/Spinner"
+        app:showAsAction="never" />
+</menu>
